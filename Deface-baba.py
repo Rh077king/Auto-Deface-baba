@@ -6,9 +6,9 @@ def banner():
 	os.system('clear')
 	print('''\t××××××××××××××××××××××××××××××××××××''')
 	print('''\t×                                  ×''')
-	print('''\t×      WebDav Auto Exploiter       ×''')
-	print('''\t×  Myanmar Cyber Pirates 2nd-gen   ×''')
-	print('''\t×         Coded By X-Ray           ×''')
+	print('''\t×       Auto Deface baba           ×''')
+	print('''\t×     Tm:Cyber king squad          ×''')
+	print('''\t×       Author=Rh077king           ×''')
 	print('''\t×                                  ×''')
 	print('''\t××××××××××××××××××××××××××××××××××××''')
 	#Don't Change logo :3
