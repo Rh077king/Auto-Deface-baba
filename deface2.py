@@ -36,7 +36,7 @@ def x(tetew):
     return str(ipt)
 
 
-def aox(script, target_file="baba.txt"):
+def aox(script, target_file="mama.txt"):
     op = open(script, "r").read()
     with open(target_file, "r") as target:
         target = target.readlines()
