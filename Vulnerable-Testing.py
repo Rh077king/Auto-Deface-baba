@@ -10,14 +10,22 @@ except ImportError:
 
 banner = """\033[36m
 
-───────────────────────────────────────────────────────────────
-───────────────────────────────────────────────────────────────
---+-+-+-+-+-+-+-+-+-0-7-7 -+-++-+-+-+-+-+-+-+-+-+-+-+-+++-+-+-+-+-+-+-+-+-+
-───────────────────────────────────────────────────────────────
+    ┏━━━━━•°°°°*$*°°°°°•━━━━━┓
 
-         Auto Deface baba is coming soon 
-      GITHUB   :-https://github.com/RhkingCKS 
- 
+           Auto Deface baba
+
+    ┗━━━━━•°°°°*$*°°°°•━━━━━┛                  
+         ┏━━━━━•$•━━━━━┓
+
+         °Cyber king squad°
+
+         ┗━━━━━•$•━━━━━┛
+    ┏━━━━━•°°°°*$*°°°°°•━━━━━┓
+
+          it's me Rh077king
+
+     ┗━━━━━•°°°°°*$*°°°°•━━━━━┛                            
+  
 """
 
 
@@ -36,7 +44,7 @@ def x(tetew):
     return str(ipt)
 
 
-def aox(script, target_file="mama.txt"):
+def aox(script, target_file="Vulnerable.txt"):
     op = open(script, "r").read()
     with open(target_file, "r") as target:
         target = target.readlines()
